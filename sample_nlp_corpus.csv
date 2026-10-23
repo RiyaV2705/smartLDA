@@ -1,0 +1,21 @@
+doc_id,category,content
+1,Natural Language Processing,Transformers use multi-head self-attention mechanisms to learn contextual representations of words in text corpora.
+2,Natural Language Processing,Large language models are pre-trained on diverse datasets to perform zero-shot and few-shot natural language understanding.
+3,Natural Language Processing,Tokenization algorithms convert continuous sequences of characters into subword tokens for deep neural network architectures.
+4,Natural Language Processing,Prompt engineering and instruction tuning improve the reasoning capabilities of generative language models.
+5,Natural Language Processing,Bidirectional encoder representations model left and right word contexts simultaneously for token classification.
+6,Cloud Computing,Kubernetes automates the deployment scaling and management of containerized applications in cloud computing environments.
+7,Cloud Computing,Docker containers bundle application code system tools libraries and configuration settings into reproducible images.
+8,Cloud Computing,Microservice architectures break down monolithic software systems into small independently scalable distributed services.
+9,Cloud Computing,Infrastructure as code tools like Terraform enable automated configuration of virtual servers networks and cloud firewalls.
+10,Cloud Computing,Distributed message brokers like Apache Kafka handle real-time event streaming between producer and consumer applications.
+11,Cybersecurity,Zero trust network architecture enforces strict access control verification for every user and device requesting enterprise resources.
+12,Cybersecurity,Public key cryptography utilizes asymmetric private and public key pairs to encrypt sensitive communications and authenticate signatures.
+13,Cybersecurity,Ransomware malware encrypts critical database files and demands digital payments for the decryption key.
+14,Cybersecurity,Penetration testing identifies potential security vulnerabilities in web applications such as cross-site scripting and SQL injection.
+15,Cybersecurity,Multi-factor authentication requires multiple credentials like one-time passwords and biometric verification for secure login.
+16,Quantum Computing,Superconducting quantum circuits operate at cryogenic temperatures near absolute zero to maintain qubit quantum coherence.
+17,Quantum Computing,Quantum entanglement enables non-local correlations between physical qubits used in quantum teleportation and communication protocols.
+18,Quantum Computing,Shor algorithm runs in polynomial time on quantum computers to solve integer prime factorization problems.
+19,Quantum Computing,Quantum error correction codes protect logical information against environmental noise and gate operational errors.
+20,Quantum Computing,Variational quantum algorithms estimate the ground state energy of molecular structures using noisy intermediate-scale hardware.
